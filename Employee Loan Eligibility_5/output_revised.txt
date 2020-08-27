@@ -1,0 +1,3 @@
+
+testCalculateSalary=true
+testCalculateLoanAmount=true
